@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS)
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/0gVYPYIqcma9zeB29z6eoX?si=3d4f297ccd4846ba))
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9l07k0hb2eqwjozn0m2yam5jv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9l07k0hb2eqwjozn0m2yam5jv&redirect=true)
 
 
