@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS)
+</div>
