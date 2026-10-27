@@ -16,7 +16,7 @@
 <img align="left" width="150" src="https://github.com/user-attachments/assets/3e9f55e1-42c6-439b-aace-c174d42bda4e">
 
 ### *hi there ୭˚. ᵎᵎ*
-ⓘ  i'm a digital artist who happens to like playing pony game. sometimes with my beloved partner. <br>
+i'm a digital artist who happens to like playing pony game. sometimes with my beloved partner. <br>
     my main interests are **DC** and **hetalia** <br>
     very open to friends! <br>
     **c + h / whisper me since i'm probably offtab or drawing!** <br>
@@ -24,7 +24,7 @@
 
 <br clear="left"/>
 
-This text will appear completely below the image because the float has been cleared.
+
 
 <div align="center">
 
