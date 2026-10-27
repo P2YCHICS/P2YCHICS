@@ -4,30 +4,20 @@
 
 </div>
 
-<!--
-**P2YCHICS/P2YCHICS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS)
 
-</div>
+
 
 <img align="left" width="150" src="https://github.com/user-attachments/assets/3e9f55e1-42c6-439b-aace-c174d42bda4e" />">
 
-### Your Heading Here
-This text will sit completely to the right of your image. You can write paragraphs, bullet points, or instructions here. 
+### *hi there ୭˚. ᵎᵎ*
+ⓘ  i'm a digital artist who happens to like playing pony game. sometimes with my beloved partner. 
+    my main interests are **DC** and **hetalia**
+    very open to friends! **c + h / whisper me since i'm probably offtab or drawing!**
+    also very fond of sourcemates !! 
 
 <br clear="left"/>
 
@@ -39,9 +29,6 @@ This text will appear completely below the image because the float has been clea
 
 
 <img width="97" height="20" alt="97eaaacd" src="https://github.com/user-attachments/assets/3479a8b0-6f95-4aab-a3e1-c425af03ea19" />
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9l07k0hb2eqwjozn0m2yam5jv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9l07k0hb2eqwjozn0m2yam5jv&redirect=true)
 
 </div>
 
