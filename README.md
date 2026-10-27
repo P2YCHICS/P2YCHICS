@@ -6,7 +6,7 @@
 
 
 <div align="center">
-![](https://komarev.com/ghpvc/?P2YCHICS&label=KILL+COUNT style=plastic color=red)
+![](https://komarev.com/ghpvc/?P2YCHICS&label=KILL+COUNT)
   
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS) 
 
