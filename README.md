@@ -6,7 +6,8 @@
 
 
 <div align="center">
-![](https://komarev.com/ghpvc/?P2YCHICS&label=KILL+COUNT)
+
+![](https://komarev.com/ghpvc/?username=P2YCHICS&color=red&style=plastic&label=LUCKY+AUDIENCE+MEMBERS)
   
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS) 
 
