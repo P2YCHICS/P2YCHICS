@@ -15,9 +15,10 @@
 
 ### *hi there ୭˚. ᵎᵎ*
 ⓘ  i'm a digital artist who happens to like playing pony game. sometimes with my beloved partner. 
-    my main interests are **DC** and **hetalia**
-    very open to friends! **c + h / whisper me since i'm probably offtab or drawing!**
-    also very fond of sourcemates !! 
+my main interests are **DC** and **hetalia** 
+very open to friends! 
+**c + h / whisper me since i'm probably offtab or drawing!** 
+also very fond of sourcemates !! 
 
 <br clear="left"/>
 
