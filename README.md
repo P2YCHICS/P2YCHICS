@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=P2YCHICS&color=red&style=plastic&label=LUCKY+AUDIENCE+MEMBERS)
+![](https://komarev.com/ghpvc/?username=P2YCHICS&color=red&style=plastic&label=LUCKY+AUDIENCE+MEMBERS&base=16)
   
 ![:P2YCHICS](https://count.getloli.com/@:P2YCHICS) 
 
