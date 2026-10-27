@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<img align="left" width="150" src="<img width="356" height="478" src="https://github.com/user-attachments/assets/3e9f55e1-42c6-439b-aace-c174d42bda4e" />">
+<img align="left" width="150" src="https://github.com/user-attachments/assets/3e9f55e1-42c6-439b-aace-c174d42bda4e" />">
 
 ### Your Heading Here
 This text will sit completely to the right of your image. You can write paragraphs, bullet points, or instructions here. 
