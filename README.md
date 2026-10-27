@@ -17,10 +17,10 @@
 
 ### *hi there ୭˚. ᵎᵎ*
 ⓘ  i'm a digital artist who happens to like playing pony game. sometimes with my beloved partner. <br>
-my main interests are **DC** and **hetalia** <br>
-very open to friends! <br>
-**c + h / whisper me since i'm probably offtab or drawing!** <br>
-also very fond of sourcemates !! <br>
+    my main interests are **DC** and **hetalia** <br>
+    very open to friends! <br>
+    **c + h / whisper me since i'm probably offtab or drawing!** <br>
+    also very fond of sourcemates !! <br>
 
 <br clear="left"/>
 
@@ -29,7 +29,6 @@ This text will appear completely below the image because the float has been clea
 <div align="center">
 
 
-<img width="97" height="20" alt="97eaaacd" src="https://github.com/user-attachments/assets/3479a8b0-6f95-4aab-a3e1-c425af03ea19" />
 
 </div>
 
